@@ -1,0 +1,31 @@
+listing_id,figure,version,seller_id,total_cost,reference_price,score_auto,score_full,risk_level,scorer_high_risk,verdict,reviewer_high_risk,agrees,red_flags
+L01,Doctor Doom,MMS906,S01,455.98,304.99,0,0,Low,False,Probably legit,False,True,
+L02,Doctor Doom,unclear,S02,834.98,304.99,8,11,High,True,Suspicious,True,True,"ships_before_release (+3), copied_listing (+2), new_account_high_volume (+2), new_account (+1), no_returns (+1), over_twice_official (+1), unrelated_store_categories (+1)"
+L03,Doctor Doom,MMS902,S03,734.0,270.0,4,7,High,True,Suspicious,True,True,"ships_before_release (+3), copied_listing (+2), over_twice_official (+1), odd_item_specifics (+1)"
+L04,Doctor Doom,unclear,S04,562.9,304.99,1,1,Low,False,Medium risk,False,True,new_account (+1)
+L05,Doctor Doom,unclear,S05,759.98,304.99,8,10,High,True,Likely scam,True,True,"ships_before_release (+3), copied_listing (+2), low_feedback (+2), new_account (+1), no_returns (+1), over_twice_official (+1)"
+L06,Doctor Doom,MMS902,S06,734.0,270.0,7,10,High,True,Suspicious,True,True,"ships_before_release (+3), copied_listing (+2), low_feedback (+2), new_account (+1), over_twice_official (+1), odd_item_specifics (+1)"
+L07,Doctor Doom,MMS902,S07,498.0,270.0,3,3,Medium,False,Probably legit (unconfirmed),False,True,ships_before_release (+3)
+L08,Iron Man Mark 85 BD,MMS543D33,S08,392.48,451.0,1,1,Low,False,Medium risk,False,True,under_official_overseas (+1)
+L09,Iron Man Mark 85 BD,MMS543D33,S09,475.9,451.0,0,1,Low,False,Probably legit,False,True,unrelated_store_categories (+1)
+L10,Iron Man Mark 85 BD,MMS543D33B,S10,486.81,451.0,1,1,Low,False,Probably legit,False,True,no_returns (+1)
+L11,Iron Man Mark 85 BD,MMS543D33,S11,459.98,451.0,0,1,Low,False,Probably legit,False,True,unrelated_store_categories (+1)
+L12,Iron Man Mark 85 BD,MMS543D33B,S12,479.98,451.0,1,1,Low,False,Probably legit,False,True,no_returns (+1)
+L13,Iron Man Mark 85 BD,unclear,S13,454.0,451.0,0,3,Medium,False,Suspicious,True,False,"condition_conflict (+2), unrelated_store_categories (+1)"
+L14,Iron Man Mark 85 BD,MMS543D33,S14,397.99,451.0,1,1,Low,False,Probably legit,False,True,under_official_overseas (+1)
+L15,Iron Man Mark 85 BD,MMS543D33B,S15,562.91,451.0,1,2,Medium,False,Probably legit,False,True,"no_returns (+1), odd_item_specifics (+1)"
+L16,Anakin Artisan,DX34AE,S16,741.87,414.99,1,1,Low,False,Probably legit,False,True,no_returns (+1)
+L17,Anakin Artisan,DX34AE,S17,450.0,414.99,1,1,Low,False,Probably legit,False,True,no_returns (+1)
+L18,Anakin Artisan,DX34AE,S18,724.99,414.99,0,0,Low,False,Probably legit,False,True,
+L19,Anakin Artisan,DX34AE,S19,597.32,414.99,1,1,Low,False,Probably legit,False,True,no_returns (+1)
+L20,Anakin Artisan,DX34AE,S20,719.99,414.99,3,3,Medium,False,Probably legit,False,True,"low_feedback (+2), no_returns (+1)"
+L21,Anakin Artisan,DX34AE,S21,999.99,414.99,2,4,High,True,Medium risk,False,False,"no_returns (+1), over_twice_official (+1), odd_item_specifics (+1), unrelated_store_categories (+1)"
+L22,Anakin Artisan,DX47AE,S22,631.2,,3,3,Medium,False,Medium risk,False,True,"low_feedback (+2), no_returns (+1)"
+L23,Anakin Artisan,DX34AE,S23,696.99,414.99,1,1,Low,False,Probably legit,False,True,no_returns (+1)
+L24,Black Suit Spider-Man,MMS728B,S24,600.0,330.0,1,1,Low,False,Probably legit,False,True,no_returns (+1)
+L25,Black Suit Spider-Man,MMS728B,S25,702.28,330.0,2,3,Medium,False,Probably legit,False,True,"over_twice_official (+1), inflated_shipping (+1), unrelated_store_categories (+1)"
+L26,Black Suit Spider-Man,MMS728,S26,599.99,330.0,1,1,Low,False,Probably legit,False,True,no_returns (+1)
+L27,Black Suit Spider-Man,MMS728,S27,499.98,330.0,0,4,High,True,Suspicious,True,True,counterfeit_prone_history (+4)
+L28,Black Suit Spider-Man,MMS728,S28,321.92999999999995,330.0,0,3,Medium,False,Medium risk,False,True,"condition_conflict (+2), unrelated_store_categories (+1)"
+L29,Black Suit Spider-Man,MMS728B,S29,700.0,330.0,4,6,High,True,Medium risk,False,False,"new_account_high_volume (+2), new_account (+1), over_twice_official (+1), odd_item_specifics (+1), unrelated_store_categories (+1)"
+L30,Black Suit Spider-Man,MMS728B,S30,858.0,330.0,1,1,Low,False,Probably legit,False,True,over_twice_official (+1)
